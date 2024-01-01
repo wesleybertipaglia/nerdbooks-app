@@ -7,7 +7,6 @@ Welcome to the NerdBooks App repository! This React app is built with Tailwind C
 - [Introduction](#introduction)
 - [Features](#features)
 - [Getting Started](#getting-started)
-- [Dependencies](#dependencies)
 - [Contributing](#contributing)
 
 ## Introduction
