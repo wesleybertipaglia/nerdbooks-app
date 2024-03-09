@@ -1,4 +1,4 @@
-# NerdBooks App
+# NerdBooks
 
 Welcome to the NerdBooks App repository! This React app is built with Tailwind CSS and serves as a frontend interface to interact with the NerdBooks API. Explore, contribute, and use this template for your own book management application.
 
@@ -27,31 +27,32 @@ To get started with the NerdBooks App, follow these steps:
 
 1. Clone the repository:
 
-    ```bash
-    git clone https://github.com/wesleybertipaglia/nerdbooks-app
-    ```
+   ```bash
+   git clone https://github.com/wesleybertipaglia/nerdbooks-app
+   ```
 
 2. Navigate to the project directory:
 
-    ```bash
-    cd nerdbooks-app
-    ```
+   ```bash
+   cd nerdbooks-app
+   ```
 
 3. Install dependencies:
 
-    ```bash
-    npm install
-    ```
+   ```bash
+   npm install
+   ```
 
 4. Start the development server:
 
-    ```bash
-    npm start
-    ```
+   ```bash
+   npm start
+   ```
 
-    Open your browser and go to [http://localhost:3000](http://localhost:3000) to see the NerdBooks App in action.
+   Open your browser and go to [http://localhost:3000](http://localhost:3000) to see the NerdBooks App in action.
 
 ## Contributing
+
 If you encounter issues, have suggestions for improvements, or want to contribute, feel free to open an issue or submit a pull request. Contributions are always welcome!
 
 Happy exploring and managing your nerdbook collection!
